@@ -64,7 +64,9 @@ GitHub Actions went ahead and made a branch for you. So you'll need to add to th
   <<< Author notes: Footer >>>
   Add a link to get support, GitHub status page, code of conduct, license link.
 -->
-
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
 ---
 
 Get help: [Post in our discussion board](https://github.com/orgs/skills/discussions/categories/communicate-using-markdown) &bull; [Review the GitHub status page](https://www.githubstatus.com/)
